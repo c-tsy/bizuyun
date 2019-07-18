@@ -1,0 +1,21 @@
+{
+  "name": "bizuyun",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/c-tsy/bizuyun",
+  "author": "castleiMac <castle@tansuyun.cn>",
+  "license": "MIT",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/**/*.js",
+    "dist/**/*.d.ts",
+    "README.md"
+  ],
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "^12.6.6"
+  }
+}
